@@ -9,6 +9,8 @@ KEY FEATURES
 - 🎨 Clean and responsive user interface  
 - 🚀 Deployable on Vercel in one click
 
+Live Demo: https://studyplanner-h8zrpmrpm-monishas-projects-a8246859.vercel.app/
+
 SCREENSHOTS  
 
  ![Screenshot 2025-05-12 134805](https://github.com/user-attachments/assets/e9d9de8f-1fec-47db-bc52-c311973fe395)
