@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Study Planner</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>📚 Study Planner</h1>
+    
+    <form id="taskForm">
+      <input type="text" id="subject" placeholder="Enter Subject" required />
+      <input type="date" id="date" required />
+      <input type="time" id="time" required />
+      <button type="submit">Add Task</button>
+    </form>
+
+    <ul id="taskList"></ul>
+
+    <div style="text-align:center; margin-top: 20px;">
+      <a href="dashboard.html" class="dashboard-link">📊 Go to Dashboard</a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
